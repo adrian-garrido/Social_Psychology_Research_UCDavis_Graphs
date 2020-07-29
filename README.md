@@ -1,4 +1,4 @@
-# Social_Psychology_Research_UCDavis_Graphs
+# Social Psychology Research UCDavis Graphs
 
 These graphs were created to be used on a scientific journal and on a website, for the Social Psychology Research group at the University of California, Davis. 
 
